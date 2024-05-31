@@ -1,8 +1,9 @@
 # Algorithm Visualizer
 
 
-View Algorithm Visualizer
-https://harshil-270.github.io/Algorithm-Visualizer/
+View Algorithm Visualizer site :
+https://rizzler1738.github.io/algoviz.com/
+
 
 ### TODO
 
